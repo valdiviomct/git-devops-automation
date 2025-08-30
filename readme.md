@@ -11,3 +11,8 @@ Bem-vindo ao repositório! Este é um projeto de exemplo para demonstrar o uso b
 
 ### Estrura de Projetos
 
+### Adicionando Conteudo remotamente
+
+---
+
+## Como Trabalhar com Git
